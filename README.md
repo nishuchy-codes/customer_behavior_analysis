@@ -215,6 +215,7 @@ Customer-Shopping-Behavior-Analysis/
 
 Clone Repository
 git clone https://github.com/nishuchy-codes/customer-shopping-behavior-analysis.git
+                                                           
 Install Required Packages
 pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 Launch Notebook :jupyter notebook
